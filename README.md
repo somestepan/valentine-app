@@ -1,5 +1,7 @@
 # 💘 Valentine Mini-App
 
+link: https://valentine-app-rosy.vercel.app/
+
 An interactive Valentine's Day mini-app with a playful twist! This web application features a fun mechanism where the "No" button intelligently runs away from your cursor, making it nearly impossible to reject the Valentine's proposal.
 
 ## ✨ Features
