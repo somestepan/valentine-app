@@ -188,20 +188,6 @@ npm run build
 vercel --prod
 ```
 
-### Netlify
-
-```bash
-npm run build
-netlify deploy --prod --dir=dist
-```
-
-### GitHub Pages
-
-```bash
-npm run build
-# Upload dist/ folder to gh-pages branch
-```
-
 ## 📄 License
 
 This project is open source and available under the MIT License.
